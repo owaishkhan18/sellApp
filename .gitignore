@@ -17,3 +17,9 @@ path/to/problematic/file
 node_modules/
 *.log
 dist/
+
+backend/package-lock.json
+backend/package.json
+frontend/
+package-lock.json
+package.json
