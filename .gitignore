@@ -3,7 +3,8 @@ node_modules/
 
 # Ignore environment files
 .env
-
+.package-lock.json
+.package.json
 # # Ignore build output (optional)
 # dist/
 
