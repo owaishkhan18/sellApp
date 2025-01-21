@@ -5,6 +5,8 @@ node_modules/
 .env
 .package-lock.json
 .package.json
+backend/controller/authController.js
+
 # # Ignore build output (optional)
 # dist/
 
