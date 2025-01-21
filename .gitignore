@@ -1,0 +1,19 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment files
+.env
+.package-lock.json
+.package.json
+backend/controller/authController.js
+
+# # Ignore build output (optional)
+# dist/
+
+# # Ignore macOS system files (optional)
+# .DS_Store
+path/to/problematic/file
+
+node_modules/
+*.log
+dist/
