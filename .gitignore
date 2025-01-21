@@ -23,3 +23,6 @@ backend/package.json
 frontend/
 package-lock.json
 package.json
+
+
+backend/node_modules
